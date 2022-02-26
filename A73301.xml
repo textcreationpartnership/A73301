@@ -1,0 +1,486 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at Wimondham in Norfolke, at the primary visitation of the Right Honourable and Reverend Father in God, Matthevv, Lord Bishop of Norwich, on the third of Iune, Ann. Dom. 1636. By Richard Tedder.</title>
+            <author>Tedder, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1637</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73301</idno>
+            <idno type="STC">STC 23857.7</idno>
+            <idno type="STC">ESTC S125555</idno>
+            <idno type="EEBO-CITATION">99898122</idno>
+            <idno type="PROQUEST">99898122</idno>
+            <idno type="VID">135567</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73301)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135567)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2086:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at Wimondham in Norfolke, at the primary visitation of the Right Honourable and Reverend Father in God, Matthevv, Lord Bishop of Norwich, on the third of Iune, Ann. Dom. 1636. By Richard Tedder.</title>
+                  <author>Tedder, Richard.</author>
+               </titleStmt>
+               <extent>[4], 26, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Thomas Harper, and are to be sold by Godfrey Emerson, and are to be sold at his shop in little Brittaine,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1637.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135567:1" rendition="simple:additions"/>
+            <p>A SERMON PREACHED AT <hi>WIMONDHAM,</hi> In <hi>Norfolke,</hi> at the Primary Viſitation of the Right Honourable and Reverend Father in God, MATTHEVV, Lord Biſhop of NORWICH, on the third of Iune, <hi>Ann. Dom.</hi> 1636. By RICHARD TEDDER.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Thomas Harper,</hi> and are to be ſold by <hi>Godfrey Emerſon,</hi> and are to be ſold at his ſhop in little Brittaine. 1637.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:135567:2"/>
+            <pb facs="tcp:135567:2"/>
+            <head>TO THE RIGHT REVEREND FATHER IN GOD, <hi>MATTHEW,.</hi> Lord Biſhop of <hi>Norwich,</hi> and Deane of the <hi>Kings Majeſties Chappell Royall.</hi>
+            </head>
+            <opener>
+               <salute>My LORD,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Preſent this Sermon un<g ref="char:EOLhyphen"/>to you with all humble<g ref="char:EOLhyphen"/>neſſe, which was preach<g ref="char:EOLhyphen"/>ed at your Lordſhps Vi<g ref="char:EOLhyphen"/>ſitation. The Time, the Place, the Occaſion, yea My ſelfe beare ſuch a relation to you, that they move me to ſue to your Lordſhip for the pa<g ref="char:EOLhyphen"/>tronage
+<pb facs="tcp:135567:3"/>of it. God grant your Lordſhip encreaſe of dayes, and honour, that both God and the Church may receive an en<g ref="char:EOLhyphen"/>creaſe of honour by them both. This is the daily prayer of him who is, and will be</p>
+            <closer>
+               <signed>Your Lordſhips in all humble duty, <hi>RICHARD TEDDER.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:135567:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>S. LUKE Chap. 19. Verſ. 46.</hi>
+                  </bibl>
+                  <p>It is written, My houſe is the houſe of prayer: but ye have made it a denne of theeves.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe words were a <hi>Sermon,</hi> the <hi>Text</hi> was taken out of <hi>Iſay,</hi> the Sermon was preached at a <hi>Viſitation</hi> time: the <hi>Viſitor</hi> himſelf preached it, and the <hi>place,</hi> which he viſited, was the <hi>Temple.</hi>
+            </p>
+            <p>
+               <hi>Iudicia à domo Dei:</hi> the fitteſt <hi>place</hi> for <hi>Iudgement</hi> to begin at, is the <hi>Houſe of God:</hi>
+               <note place="margin">1. Ep. S. Pet. c. 4. v. 17.</note> ſet but all right in the <hi>Temple,</hi> and all will go well enough with the <hi>Common-wealth.</hi> The <hi>Common-wealth</hi> is ſuſtained by <hi>Iu<g ref="char:EOLhyphen"/>ſtice,</hi> but, <hi>Iuſtice it ſelf</hi> is upheld by <hi>Religion,</hi> that <hi>Plato</hi> puts down for a <hi>maxime</hi> in his <hi>Alcib.</hi> If <hi>Religion</hi> falter, then <hi>Iuſtice</hi> cannot but ſwerve; and the ſwerving of <hi>Iu<g ref="char:EOLhyphen"/>ſtice</hi> cannot be without danger, if not without the down<g ref="char:EOLhyphen"/>fall of a <hi>State:</hi>
+            </p>
+            <p>
+               <hi>Domus Dei,</hi> and <hi>Domus Regis, Gods Houſe,</hi> and the <hi>Kings Houſe</hi> ſtood together; ſo <hi>Solomon</hi> built them:<note place="margin">1. Reg. c. 6, 7.</note> but firſt <hi>Solomon</hi> built <hi>Gods houſe,</hi> and then <hi>His own:</hi> for it is <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>Temple,</hi> that doth, and muſt ever eſtabliſh the <hi>Throne.</hi>
+            </p>
+            <pb n="2" facs="tcp:135567:4"/>
+            <p>The ſafety of the <hi>King</hi> and <hi>State,</hi> and the life of <hi>Iuſtice</hi> are derived from <hi>Religion:</hi> but <hi>Religion</hi> too will fall into pieces, if it be not continually cemented and repaired by <hi>Diſcipline.</hi> Hence the <hi>Fathers</hi> in the <hi>Primitive</hi> times, and ſince, have beſtowed all their care, and directed all their endeavours to this one end, that is <hi>Diſcipline.</hi> As good pull down <hi>the Church</hi> with the <hi>Edomite,</hi> as cry down the <hi>Diſcipline</hi> of it with the <hi>Separatiſt.</hi> To keep <hi>this</hi> up, the <hi>Apoſtles</hi> themſelves laboured, like wiſe work-men, ordaining in their <hi>Canons two</hi> times in the <hi>yeare</hi> for <hi>Epiſcopall Aſſemblies</hi>
+               <note n="(a)" place="margin">Cap. 38.</note>; which <hi>Conſtitution</hi> was afterward quickened again by the <hi>Generall Councels:</hi> for this was thought the way to correct the <hi>vitiouſneſſe of the Clergy,</hi> and to preſerve <hi>ſanctity of life</hi> among them, in the <hi>Councell</hi> at <hi>Chalcedon</hi>
+               <note n="(b)" place="margin">Cap. 19.</note>; to root out <hi>hereſie,</hi> and maintaine <hi>purity of Doctrine,</hi> in the <hi>Councell</hi> at <hi>Antioch</hi>
+               <note n="(c)" place="margin">Cap. 20.</note>; to hinder <hi>oppreſsion of inferiour Clergy-men,</hi> and ſettle <hi>ju<g ref="char:EOLhyphen"/>ſtice</hi> among the <hi>Prelates,</hi> in the <hi>Nicene Councell</hi>
+               <note n="(d)" place="margin">Cap. 5.</note>: to re<g ref="char:EOLhyphen"/>move <hi>ſchiſme,</hi> and to plant <hi>unity</hi> and <hi>conſpiration,</hi> in the <hi>Canons</hi> of the <hi>Apoſtles</hi>
+               <note n="(e)" place="margin">Cap. 38.</note>.</p>
+            <p>It is the <hi>Prelates</hi> part to ſee to <hi>Diſcipline,</hi> and to actu<g ref="char:EOLhyphen"/>ate the <hi>Laws</hi> by ſeeing them obeyed, which otherwiſe would come to no birth, but dye abortive. They ſtrike at the very <hi>foundation</hi> of the <hi>Church,</hi> that ſpeak againſt the <hi>Hierarchy of Biſhops:</hi> for remove the <hi>Prelacy,</hi> and re<g ref="char:EOLhyphen"/>move <hi>Diſcipline:</hi> and <hi>diſcipline</hi> being thruſt out, <hi>Religio<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> fals flat upon the ground. Where there is <hi>no King,</hi> a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> once it was in <hi>Iſrael,</hi>
+               <note place="margin">Jud. 21.25.</note> there <hi>every man did what ſeeme good in his own eyes:</hi> where there is <hi>no Prelate,</hi> as it is now in <hi>ſome Cities beyond the ſeas,</hi> there all ſorts of <hi>ſchiſma<g ref="char:EOLhyphen"/>ticks</hi> broach all ſorts of <hi>doctrines, every man</hi> profeſſin<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> what <hi>Religion</hi> he pleaſes. But with us if there be not
+<pb n="3" facs="tcp:135567:4"/>
+               <hi>good Clergy,</hi> it is the neglect of the <hi>Prelate;</hi> and if there be not <hi>a religious and conformable people,</hi> it is the fault of <hi>the Prieſt:</hi> for it the <hi>Prieſt</hi> would but do <hi>his duty,</hi> the <hi>peo<g ref="char:EOLhyphen"/>ple</hi> would, or muſt do <hi>theirs.</hi>
+            </p>
+            <p>Hence it is, that <hi>our Lord</hi> in this his <hi>Viſitation,</hi> when he ſaw <hi>the Citie,</hi> the <hi>Text</hi> ſaith, <hi>Flevit ſuper illam,</hi>
+               <note place="margin">Ver. 41.</note> 
+               <hi>He wept over it:</hi> but when he came into <hi>the Temple, Coepit ejicere, He began to caſt out them that were in it:</hi>
+               <note place="margin">Ver. 45.</note> He never acted the <hi>Magiſtrate</hi> till now in the <hi>Temple. There Reformation</hi> is to begin: Cleanſe but the <hi>Church</hi> of <hi>ignorant, errone<g ref="char:EOLhyphen"/>ous, ſchiſmaticall,</hi> and <hi>vitious Prieſts,</hi> and then <hi>Religion</hi> will take more place among the <hi>people.</hi> No marvell, that <hi>all Ieruſalem</hi> was out of <hi>order,</hi> when <hi>Gods houſe</hi> was ſo too, when <hi>Domus Dei</hi> was converted into <hi>ſpelunca latro<g ref="char:EOLhyphen"/>num,</hi> when <hi>theeves</hi> had taken the <hi>houſe of God</hi> in poſſeſ<g ref="char:EOLhyphen"/>ſion, and <hi>ſacriledge</hi> was inſtalled in the ſeat of <hi>prayer. There</hi> our great <hi>Viſitor</hi> begins, paſſing by the ſinnes of the <hi>City,</hi> he onely <hi>wept over that,</hi> and pitied it; but pu<g ref="char:EOLhyphen"/>niſhing the ſinnes of the <hi>Temple,</hi> for <hi>he ſcourged and caſt out</hi> them that prophaned it, <hi>ſaying unto them: It is written,</hi>
+               <note place="margin">S. Joh. 2.15.</note> 
+               <hi>My houſe is the houſe of prayer; but ye have made it a denne of theeves.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> In theſe words of the <hi>Text,</hi> there is, 1. The <hi>Temples inſtitution.</hi> 2. The <hi>prophanation</hi> of it. In the <hi>inſtitution,</hi> 1. <hi>What</hi> it muſt be, <hi>Domus.</hi> 2. For <hi>whom, God, Domus Mea.</hi> 3. To what <hi>end, Prayer, Domus mea, domus Orationis.</hi> 4. The <hi>unalterableneſſe</hi> of that <hi>end,</hi> it is not <hi>fuit,</hi> or <hi>erit,</hi> out <hi>eſt, Domus mea Eſt domus orationis.</hi> 5. The <hi>reaſon,</hi> or ground, and that is, becauſe <hi>God himſelfe</hi> hath inſtitu<g ref="char:EOLhyphen"/>ed it ſo, <hi>Scriptum eſt, Domus mea eſt domus orati<g ref="char:EOLhyphen"/>nis.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> The <hi>prophanation</hi> of it is aggravated. 1. From <hi>what</hi>
+               <pb n="4" facs="tcp:135567:5"/>it was made, <hi>Spelunca.</hi> 2. From the <hi>perſons</hi> that were en<g ref="char:EOLhyphen"/>tertained in it, <hi>Theeves, ſpelunca Latronum.</hi> 3. From the <hi>perſons,</hi> that made it ſo, the <hi>Iews,</hi> yea, the <hi>Scribes and Phariſes, Vos autem feciſtis eam ſpeluncam latronum.</hi> 4. From the <hi>continuance</hi> of time, it is not <hi>Vos Facitis eam,</hi> but which is more, <hi>Vos Feciſtis eam ſpeluncam latronum.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> Though, as <hi>David</hi> ſaith, <hi>Domini eſt terra,</hi> and as Saint <hi>Paul</hi> ſaith,<note place="margin">Pſal. 24.1. 1. Tim. 2.8.</note> 
+               <hi>Volo viros orare in omni loco:</hi> though God be the immenſe inhabitant of the <hi>whole earth,</hi> and <hi>every place</hi> in it may, and ſhould be our <hi>Oratory;</hi> yet he hath ever confined his preſence to ſome <hi>particular places</hi> to be adored in.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> At firſt God was reſorted to in a remote <hi>Mountaine,</hi> or a neighbouring <hi>Grove,</hi> places fit for <hi>ſilence</hi> and <hi>contem<g ref="char:EOLhyphen"/>plation,</hi> where there might be no avocation of the mind from God: <hi>there Abraham</hi> was a ſollicitor of God by <hi>invocation.</hi>
+               <note place="margin">Gen. 21.</note>
+            </p>
+            <p>When <hi>Groves</hi> were abuſed by Gentile ſuperſtition, then God removed himſelf into a <hi>Tabernacle,</hi>
+               <note place="margin">Exod. 25.</note> and be<g ref="char:EOLhyphen"/>came a fellow-traveller with <hi>Moſes,</hi> and the children of Iſrael.<note place="margin">Pſal. 132.</note> It was <hi>Introibimus in Tabernaculum ejus</hi> then, till <hi>Solomons</hi> time, God was not to be ſpoken with but in his <hi>Tabernacle.</hi>
+            </p>
+            <p>But when he had given his people <hi>reſt,</hi> then he would have a <hi>houſe</hi> built him, a place to <hi>reſt</hi> in too: <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſaith <hi>Philo</hi>
+               <note n="(a)" place="margin">De viâ Moſis, li. 3.</note>. They were a <hi>travelling people,</hi> and God appointed them a <hi>travelling Temple;</hi> in imita<g ref="char:EOLhyphen"/>tion whereof bleſſed <hi>Conſtantine</hi> in time of <hi>warre</hi> had hi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Eccleſia portatilis</hi>
+               <note n="(b)" place="margin">Socr. lib. 1. cap. 14.</note>. The <hi>firſt Sanctuary</hi> God was wor<g ref="char:EOLhyphen"/>ſhipped in, was <hi>ſine tecto:</hi> the <hi>ſecond</hi> had <hi>tectum,</hi> but no<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>fundamentum:</hi> laſt of all, when God had brought them
+<pb n="5" facs="tcp:135567:5"/>unto a <hi>ſetled</hi> condition, and given them <hi>poſſeſsions,</hi> and <hi>houſes,</hi> God would be allowed a <hi>poſſeſsion,</hi> and a <hi>houſe</hi> among them then; and then <hi>Solomon</hi> built him a <hi>Houſe:</hi> he was <hi>ſine domo,</hi> he had <hi>no houſe</hi> till then.</p>
+            <p>Ever ſince <hi>God</hi> hath been the owner of a <hi>houſe,</hi> though the fanaticall <hi>ſchiſmatique</hi> would allow <hi>him</hi> none, he would make God at beſt but his <hi>Inmate,</hi> and <hi>he</hi> ſhould lodge in charity with him,<note place="margin">Jud. 17. 2. Reg. 4.</note> like the <hi>poore Levite in Micahs houſe,</hi> or like the <hi>man of God in the Shunamites little cham<g ref="char:EOLhyphen"/>ber.</hi> An <hi>houſe</hi> God will have of <hi>us,</hi> to whom we are be<g ref="char:EOLhyphen"/>holden for <hi>ours;</hi> not a <hi>chamber,</hi> or a <hi>parlour,</hi> a part of a houſe, but a <hi>whole houſe,</hi> and that not common to <hi>others,</hi> but proper to <hi>himſelf,</hi> which we may call <hi>his owne,</hi> and ſay, <hi>Domus mea.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Well, God cannot complaine for want of an <hi>houſe,</hi> but he may thanke the devotion of <hi>former</hi> times for it: for <hi>we</hi> are more forward to pull downe, then to ſet up, and thinke much of doing that we do, to <hi>keepe them up,</hi> much more of <hi>beautifying</hi> and <hi>adorning them.</hi> We have ſtripped <hi>Faith</hi> naked to be ſcorned and laughed at by the adverſary, <hi>good works</hi> are out of faſhion, and that <hi>Religion</hi> likes us beſt, that coſts us leaſt. The <hi>primitive Chriſtians</hi> thought it the beſt ſervice they could do to God, to do ſomething to <hi>his Houſe:</hi> that no ſigne of <hi>re<g ref="char:EOLhyphen"/>ligion,</hi> to adorne <hi>their own houſes</hi> with marble, and Ivory, and cedar, and tapeſtry, and pictures, and ſee <hi>Gods houſe</hi> neglected, and not provided for. <hi>See now,</hi> ſaith <hi>David</hi> to <hi>Nathan, I dwell in an houſe of cedar,</hi>
+               <note place="margin">2. Sam. 72</note> 
+               <hi>but the Arke of God dwelleth within curtains.</hi> He thought it a diſhonour to God, that even the <hi>Kings palace</hi> ſhould be more glori<g ref="char:EOLhyphen"/>ous than <hi>Gods houſe.</hi> This made <hi>Antiquity</hi> to chriſten their <hi>Churches</hi> by the name of <hi>Baſilicae,</hi> not onely, be<g ref="char:EOLhyphen"/>cauſe
+<pb n="6" facs="tcp:135567:6"/>the <hi>King of all people</hi> was there ſacrificed to, as <hi>Iſi<g ref="char:EOLhyphen"/>dorus</hi>
+               <note n="(a)" place="margin">Li. 15. c. 4.</note>; but for the <hi>gloriouſneſſe</hi> of their frame, as may be gathered out of Eccleſiaſticall Hiſtories. <hi>Euſebius</hi> can ſhew you the <hi>magnificence</hi> of thoſe <hi>Temples,</hi> that <hi>Con<g ref="char:EOLhyphen"/>ſtantine</hi> erected<note n="(b)" place="margin">Lib. 3.4.</note>; and <hi>Athanaſius</hi> of that <hi>vaſt one,</hi> which his ſonne <hi>Conſtantius</hi> built at Alexandria<note n="(c)" place="margin">In Apolog. ad Conſtant.</note>, who as he ſucceeded his Father in <hi>religion,</hi> ſo in the care of <hi>Gods houſe;</hi> for they go together: Let <hi>Gods houſe</hi> fall, and <hi>Re<g ref="char:EOLhyphen"/>ligion</hi> cannot but be ſmothered in it, whatſoever pre<g ref="char:EOLhyphen"/>tence any ſchiſmatique can frame for the neglect of it.</p>
+            <p>Little love there is to <hi>God,</hi> where <hi>his houſe</hi> is not uſed like a <hi>houſe,</hi> no beauty, nor <hi>ornament</hi> in it, nay, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to uſe the words of Saint <hi>Chryſoſtome</hi>
+               <note n="(d)" place="margin">Hom. 36. in 1. Cor.</note>, in farre worſe condition then a <hi>houſe:</hi> when the <hi>Church</hi> is kept more like a <hi>hogge-ſtie</hi> then a <hi>houſe,</hi> and is exceeded in beauty by an <hi>Hoſpitall</hi> or an <hi>Almes-houſe,</hi> and men come with as little devotion to it, as to a <hi>priſon</hi> or a <hi>peſt-houſe;</hi> the <hi>Chancell</hi> ſtaring from the <hi>Church,</hi> as if they were fal<g ref="char:EOLhyphen"/>len out with one another; the <hi>windows</hi> glazed with <hi>lome</hi> and <hi>morter</hi> in ſtead of <hi>painted glaſſe;</hi> the <hi>wals</hi> hung with <hi>cobwebs</hi> in ſtead of <hi>tapeſtry,</hi> and the <hi>roofe</hi> over-laid with <hi>duſt</hi> in ſtead of <hi>gold.</hi> And this wretched <hi>heape of ſtones</hi> is <hi>Domus Dei,</hi> fit enough for a <hi>houſe</hi> to worſhip God in.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> A <hi>houſe</hi> merits not the name of a <hi>houſe,</hi> if it be not beautified and <hi>adorned:</hi> but that which beautifies a <hi>houſe</hi> moſt, is <hi>unity.</hi> For this cauſe the <hi>Temple</hi> is ſtiled not <hi>Cu<g ref="char:EOLhyphen"/>ria,</hi> but <hi>Domus;</hi> not a <hi>Court,</hi> where <hi>emulation</hi> is bred, and <hi>faction</hi> nouriſhed, but a <hi>Houſe,</hi> where there is all <hi>love</hi> and <hi>peace. Vnity</hi> is hardly preſerved in a <hi>State,</hi> but may eaſi<g ref="char:EOLhyphen"/>ly in a <hi>Houſe:</hi>
+               <note place="margin">Pſal. 68.</note> Diviſion in <hi>that</hi> is more dangerous, but in <hi>this</hi> more opprobrious, when men are not of <hi>one minde in an Houſe,</hi> but the <hi>father</hi> againſt the <hi>ſonne,</hi> and the <hi>ſonne</hi>
+               <pb n="7" facs="tcp:135567:6"/>againſt the <hi>father.</hi> The <hi>Church</hi> ſhould be <hi>Domus,</hi> for or<g ref="char:EOLhyphen"/>der and <hi>unity</hi> kept in it: but not <hi>Domus diviſa, a houſe di<g ref="char:EOLhyphen"/>vided againſt it ſelfe,</hi> where the <hi>Paſtor</hi> is againſt the <hi>peo<g ref="char:EOLhyphen"/>ple,</hi> and the <hi>people</hi> againſt the <hi>Paſtor,</hi> and <hi>both</hi> againſt their <hi>Prelate.</hi>
+            </p>
+            <p>The <hi>devill</hi> was the <hi>firſt ſchiſmatique,</hi> whoſe labour it is, ever ſince he made a <hi>diviſion</hi> in heaven, to ſow his <hi>ſeeds of diviſion</hi> on earth; and though he cannot be able to diſquiet <hi>heaven</hi> any more, yet <hi>earth</hi> cannot be at <hi>peace</hi> for him. <hi>He</hi> put <hi>Coreh, Dathan,</hi>
+               <note place="margin">Num. 16.</note> and <hi>Abiram</hi> upon a <hi>ſchiſme</hi> in the time of <hi>Moſes; he</hi> bred the <hi>ſeparation</hi> of the <hi>Euſta<g ref="char:EOLhyphen"/>ſians,</hi> that cauſed the Councell at <hi>Gangra;</hi> and a little af<g ref="char:EOLhyphen"/>ter kindled the <hi>ſchiſmaticall</hi> fire of the <hi>Donatiſts,</hi> which did great harme to the <hi>Church</hi> in the time of Saint <hi>Au<g ref="char:EOLhyphen"/>guſtine,</hi> untill a Councell was aſſembled at <hi>Africa</hi> to quench it.</p>
+            <p>Theſe very <hi>ſchiſmes</hi> are revived in our times: for com<g ref="char:EOLhyphen"/>pare the <hi>ſchiſmatiques</hi> that diſquiet the <hi>Church</hi> at this day with them, and ye ſhall finde them <hi>both alike,</hi> ſave that <hi>ours</hi> have patched themſelves a coat together with ſome ſhreds of all the <hi>old hereſies.</hi> God purge his <hi>Church,</hi> and make it a <hi>Houſe at unity in it ſelfe:</hi> to which I adde with Saint <hi>Cyprian</hi> in his Book <hi>De unitate Eccleſiae, Opto equidem, ut ſi fieri poteſt, nemo de fratribus pereat, &amp; con<g ref="char:EOLhyphen"/>ſentientis populi corpus unum gremio ſuo gaudens mater in<g ref="char:EOLhyphen"/>cludat.</hi> Which as it will be great <hi>joy</hi> to the <hi>Church,</hi> ſo no leſſe <hi>honour</hi> to <hi>God, whoſe Houſe</hi> it is.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> The <hi>Church</hi> is <hi>Domus Dei,</hi> inſtituted for none but <hi>God,</hi> in which reſpect the Greeke Fathers call it <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in in the Councel at <hi>Laodicea,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <note n="(a)" place="margin">Ca. 28.</note>; who condemned even the <hi>Feaſts of charity</hi> made in the <hi>Church,</hi> as a <hi>prophanation</hi> of it,
+<pb n="8" facs="tcp:135567:7"/>though they were otherwiſe <hi>good ſignes</hi> of <hi>Chriſtian uni<g ref="char:EOLhyphen"/>ty,</hi> and ſtrengthened by <hi>Apoſtolicall cuſtome,</hi> becauſe it was <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, proper onely to <hi>God, Scriptum eſt, Domus Mea.</hi>
+            </p>
+            <p>
+               <hi>God</hi> cals it <hi>His,</hi> as if all the reſt were <hi>ours,</hi> but that <hi>His,</hi> and in no caſe to be made bold with, <hi>It is written, My houſe.</hi> Vſe our <hi>owne houſes</hi> we may, how we will, but <hi>Gods houſe,</hi> as it hath a ſpeciall <hi>holineſſe,</hi> ſo it hath a ſpe<g ref="char:EOLhyphen"/>ciall <hi>honour</hi> due to it, howſoever the unmannerly <hi>preci<g ref="char:EOLhyphen"/>ſian</hi> denies it <hi>both.</hi> But no marvell, that he that is ſo bold to wreſt <hi>Gods chaine</hi> in heaven out of his hand, dare en<g ref="char:EOLhyphen"/>trench here upon the <hi>ſanctity</hi> of <hi>his houſe,</hi> and maintaine that any <hi>other place</hi> is as much <hi>his,</hi> and as much <hi>holy;</hi> if which be true, I know not how our Lord could accuſe them of <hi>ſacriledge,</hi> that <hi>bought</hi> and <hi>ſold</hi> in it, as he doth in the <hi>Text. It is written, My houſe is the houſe of prayer, but ye have made it, &amp;c.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> The <hi>Conſecration</hi> and <hi>Dedication</hi> of <hi>Churches</hi> unto <hi>God,</hi> is no new thing, no nor yet ſuperſtitious: who thinke it ſo, they caſt durt into the face of all <hi>holy Antiquity,</hi> yea even of <hi>God himſelfe,</hi> who hath ever accepted, and ho<g ref="char:EOLhyphen"/>noured them. It is the <hi>Conſecration,</hi> that makes them <hi>ho<g ref="char:EOLhyphen"/>ly,</hi> and makes God eſteeme them ſo; which though they be not <hi>capable of grace,</hi> yet receive by their <hi>Conſecration a ſpirituall power,</hi> whereby they are made fit for divine ſervice<note n="(a)" place="margin">D. Them. 3. q. 83.3.</note>. And being <hi>conſecrated,</hi> there is no danger in aſcribing a <hi>Holineſſe</hi> unto them, if we may beleeve Saint <hi>Bernard. Quis parietes ejus ſanctos dicere vereatur,</hi> ſaith he, <hi>quos manus ſacratae pontificum tantis ſanctificavere my<g ref="char:EOLhyphen"/>ſteriis? Ex tunc quoque &amp; deinceps ſanctarum inibi lectio<g ref="char:EOLhyphen"/>num reſultare frequentia, ſanctarum onationum devota mur<g ref="char:EOLhyphen"/>murare ſuſurra, ſanctarum reliquiarum honorari beata prae<g ref="char:EOLhyphen"/>ſentia, ſanctorum ſpirituum indefeſſa noſcitur cuſtodia vigi<g ref="char:EOLhyphen"/>lare</hi>
+               <note n="(b)" place="margin">In Dedic. Eccleſ. Ser. 4.</note>.</p>
+            <pb n="9" facs="tcp:135567:7"/>
+            <p>Whence comes ſuch ſlovenly behaviour in the <hi>Church</hi> that there is no difference made between the <hi>Temple</hi> and the <hi>Theatre,</hi> but from an <hi>hereticall opinion,</hi> which was condemned in the <hi>Euſtaſian</hi> and <hi>Meſſalian Hereticks,</hi> that there is no more <hi>holineſſe</hi> in the <hi>one,</hi> than the <hi>other?</hi> The prophane <hi>uſage</hi> of it, proceeds from the prophane <hi>opini<g ref="char:EOLhyphen"/>on</hi> of it: and he that hath a <hi>prophane opinion</hi> of it, is an <hi>Atheiſt,</hi> or an <hi>Heretique</hi> at leaſt. For let us have but an ho<g ref="char:EOLhyphen"/>nourable opinion of <hi>God,</hi> and we muſt have an honoura<g ref="char:EOLhyphen"/>ble opinion of <hi>Gods Houſe</hi> too: honour <hi>him,</hi> and honour <hi>his houſe.</hi>
+            </p>
+            <p>When <hi>we</hi> come to <hi>Church,</hi> ſaith a holy Father of the <hi>Devotion</hi> of thoſe <hi>primitive</hi> times, <hi>Corpora humi ſterni<g ref="char:EOLhyphen"/>mus, mixtis cum ſletu gaudiis ſupplicamus</hi>
+               <note n="(c)" place="margin">Salv. li. 7. de prov. Dei.</note>. They that ſhewed the leaſt devotion, that did not <hi>proſtrate their bo<g ref="char:EOLhyphen"/>dies</hi> upon the ground in <hi>Daniels poſture,</hi> yet they <hi>bowed them in Solomons poſture,</hi> and worſhipped God toward the <hi>Eaſt,</hi> both <hi>Prieſt</hi>
+               <note n="(d)" place="margin">D. Chryſ. in Liturg.</note> and <hi>people</hi>
+               <note n="(e)" place="margin">D. Baſil. de Sp. S. ca. 27.</note>, aſſoone as they preſented themſelves in <hi>Gods Houſe.</hi> All the time that they were there, they behaved themſelves with ſuch modeſty, ſilence, reverence, and attention, that it looked like <hi>Gods houſe</hi> indeed, and <hi>they</hi> more like a <hi>quire</hi> of <hi>An<g ref="char:EOLhyphen"/>gels,</hi> than of <hi>men;</hi> all upon their <hi>knees</hi> at the <hi>Prayers,</hi> all upon their <hi>feet</hi> at the <hi>Sermon,</hi> none preſumed ſo much as <hi>to ſit,</hi> as being too <hi>bold</hi> and <hi>lazy a poſture</hi> in <hi>Gods houſe,</hi> but only ſuch, as for infirmity,<note place="margin">Li. Hom. 50. Hom. 26.</note> or ſome other cauſe were diſpenſed with; as may be obſerved out of S. <hi>Auguſtine.</hi>
+            </p>
+            <p>There were ſome that did <hi>nudipedes incedere in tem<g ref="char:EOLhyphen"/>plum</hi>
+               <note n="(f)" place="margin">Raynaud. Theol. nat.</note>, in imitation of <hi>Moſes,</hi> that would not have their <hi>ſhoes</hi> on their <hi>feet</hi> in the <hi>Temple;</hi> a ſhame to them that have their <hi>hats</hi> on their <hi>heads</hi> in <hi>Gods Houſe,</hi> where <hi>He,</hi> and his <hi>Angels</hi> look upon them; <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<pb n="10" facs="tcp:135567:8"/>ſaith S. <hi>Chryſoſt.</hi>
+               <note n="(f)" place="margin">Hom. 36. in 1 Cor.</note>. It was the maine thing, that the <hi>Fathers</hi> laboured among the people, to maintaine the <hi>Honour</hi> of <hi>Gods houſe;</hi> that they might put a difference betweene a <hi>common meeting place in the market,</hi> and that which was the <hi>place of Angels</hi> and <hi>Archangels,</hi> yea the very <hi>preſence-chamber of the King of heaven.</hi>
+            </p>
+            <p>The <hi>Prieſt</hi> hath no way to maintaine his <hi>owne honour,</hi> but by keeping up the <hi>honour</hi> of the <hi>Temple:</hi> for if there be no <hi>reverence</hi> to the <hi>Temple,</hi> there will be no <hi>reverence</hi> to the <hi>Prieſt; Domus Dei</hi> will ſoone be made <hi>Spelunca la<g ref="char:EOLhyphen"/>tronum;</hi> there will be they that will rob both <hi>Temple</hi> and <hi>Prieſt</hi> too: as ſome have robd already even the <hi>Apoſtles themſelves,</hi> giving more <hi>honour</hi> and title to a <hi>Maſter of a Sect,</hi> than to a <hi>Diſciple of Chriſt.</hi> But in memory of thoſe <hi>bleſſed Saints,</hi> we have <hi>Churches</hi> beare their <hi>Names,</hi> which is no diminution of <hi>Gods glory,</hi> but a provocation of <hi>our zeale.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>Domus Dei</hi> may be called juſtly enough <hi>Domus Sancti Petri,</hi> or <hi>Domus Sancti Pauli;</hi> though our peeviſh adver<g ref="char:EOLhyphen"/>ſaries cavill at it. For as S. <hi>Auguſtine</hi> ſaies, <hi>Nec tamen nos eiſdem Martyribus Templa, ſacerdotia, ſacra, &amp; ſacrificia conſtituimus; quoniam non ipſi, ſed Deus eorum nobis eſt De<g ref="char:EOLhyphen"/>us</hi>
+               <note n="(g)" place="margin">De Civit. Dei. l. 8. c. ult.</note>. <hi>Churches</hi> are not erected <hi>to them,</hi> but to their and our <hi>God in memory of them;</hi> and that for very good rea<g ref="char:EOLhyphen"/>ſons, which you may reade in <hi>Hooker</hi>
+               <note n="(h)" place="margin">Polit. Ec<g ref="char:EOLhyphen"/>cleſ. li. 5.</note>. There is one memorable place in S. <hi>Auguſtine, Sanctorum corpora, &amp; praecipuè beatorum Martyrum reliquias, tanquam Chriſti me<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>bra ſinceriſsimè honoranda, &amp; Baſilicas eorum nominibus ap<g ref="char:EOLhyphen"/>pellatas, velut loca ſancta divino cultui mancipata, affectu piiſsimo &amp; devotione fideliſsimâ adeundas credimus: ſiquis contra hanc ſententiam venerit, non Chriſtianus, ſed Euno<g ref="char:EOLhyphen"/>mianus,
+<pb n="11" facs="tcp:135567:8"/>&amp; Vigilantianus creditur</hi>
+               <note n="(i)" place="margin">De Eccleſ. dogmat. c. 73.</note>. Where he denyes him to be a <hi>Chriſtian,</hi> and marks him for an <hi>Eunomian,</hi> or a <hi>Vigilantian,</hi> that will not frequent <hi>Gods houſes</hi> that are called by <hi>Saints names.</hi> For by this means the <hi>Saints</hi> are <hi>honoured; God honoured</hi> the more, not rob'd; for the <hi>Houſe</hi> is <hi>his,</hi> and <hi>Prayer</hi> is <hi>his,</hi> ſo that neither <hi>his Houſe,</hi> nor <hi>his Service</hi> is taken from him; though they that quarrell a<g ref="char:EOLhyphen"/>bout this, have done what they could to take from him <hi>both.</hi> God ſhould neither ſay the former part of the <hi>Text, Domus Mea,</hi> nor the latter part, <hi>Domus Orationis eſt,</hi> which is the next part to be handled.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+               <hi>Prayer</hi> is the <hi>End,</hi> to which <hi>Gods houſe</hi> is erected, <hi>Do<g ref="char:EOLhyphen"/>mus mea, Domus Orationis eſt.</hi> Though there be many <hi>o<g ref="char:EOLhyphen"/>ther</hi> religious duties to be exerciſed in <hi>Gods Houſe,</hi> yet there is <hi>none</hi> other mentioned, but <hi>Prayer.</hi> God ſayes, <hi>Domus Precationis,</hi> not <hi>domus Praedicationis,</hi> not excluding <hi>preaching</hi> by commending <hi>Prayer,</hi> but preferring <hi>Prayer</hi> before <hi>Preaching. Preaching</hi> is good, and ſo is <hi>Prayer;</hi> but of theſe two, though both good, yet one is better than another. <hi>Prayer</hi> hath the <hi>onely place</hi> with Chriſt: it hath the <hi>firſt place</hi> with the Apoſtles, even in the preſence of <hi>Preaching. Nos autem Orationi,</hi>
+               <note place="margin">Act. 6.4.</note> 
+               <hi>&amp; Miniſterio verbi inſtantes erimus:</hi> firſt <hi>Prayer,</hi> then the <hi>Miniſtery of the Word;</hi> and yet the miniſtery of the Word was never of ſo much uſe as then in the times of the <hi>Apoſtles,</hi> when they were to plant the <hi>Goſpell in all the world. Preaching</hi> was at high<g ref="char:EOLhyphen"/>eſt then; and yet then <hi>prayer</hi> took place of it. <hi>Oratio</hi> was before <hi>Miniſterium verbi. Now</hi> there is not ſo much need of <hi>preaching,</hi> as there was in the <hi>firſt</hi> times of the Church: but it is ſtill needfull as in other regards, ſo for the weeding out of <hi>Schiſme</hi> and <hi>Hereſie.</hi>
+            </p>
+            <p>
+               <hi>Preaching</hi> is the common <hi>way,</hi> that leads to <hi>Faith:</hi> but how the more <hi>preaching,</hi> the leſſe <hi>faith. Inopem me copia
+<pb n="12" facs="tcp:135567:9"/>fecit.</hi> Never was there ſuch a <hi>Sermon-age</hi> as this is, and never was there ſuch a <hi>leanneſſe</hi> in <hi>Religion:</hi> We have turned all our <hi>Members</hi> into <hi>Eares,</hi> &amp; we are for nothing elſe but <hi>Hearing of Sermons,</hi> as if in <hi>Religion</hi> we were to go <hi>no higher,</hi> then <hi>Aurium tenus, up to the eares. Preaching</hi> is but the <hi>Means</hi> to bring us to <hi>Prayer:</hi>
+               <note place="margin">Rom. 10.14.</note> 
+               <hi>Quomodo invoca<g ref="char:EOLhyphen"/>bunt, in quem non credidêrunt? aut quomodo credent ei, quem non audiêrunt?</hi> ſaith S. <hi>Paul. Prayer</hi> is the <hi>End</hi> of <hi>preach<g ref="char:EOLhyphen"/>ing:</hi> and the <hi>means</hi> is not to be magnified before the <hi>end.</hi>
+            </p>
+            <p>The frequent <hi>Sermons</hi> of the <hi>Fathers</hi> can be no juſtifi<g ref="char:EOLhyphen"/>cation of ſome of our <hi>Lectures:</hi> for their <hi>Sermons</hi> were not like thoſe of theſe times, which were meaſured not by their <hi>length,</hi> but their <hi>goodneſſe;</hi> and their goodneſſe lay not in an <hi>indigeſted multitude of words,</hi> but in a <hi>perti<g ref="char:EOLhyphen"/>nency</hi> and <hi>fitneſſe of ſpeech;</hi> &amp; then too <hi>Prayer</hi> loſt nothing of her <hi>prerogative,</hi> for even in S. <hi>Chryſoſtomes</hi> time, when <hi>preaching</hi> was moſt plentiful, no part of the <hi>Liturgie</hi> was any day omitted; <hi>Preaching</hi> did not cut off <hi>Prayer</hi> with the <hi>Prieſt,</hi> yet, I muſt tell you, it began to leſſen the <hi>digni<g ref="char:EOLhyphen"/>ty of prayer</hi> with the <hi>people:</hi> which he complained of in his <hi>third Homily,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. But now <hi>prayer</hi> is grown to ſuch a ſlender reſpect, that we do what we can to have nothing elſe but <hi>preaching</hi> in the <hi>Church,</hi> and no <hi>prayer</hi> at all. Witneſſe the corrupt cuſtome of <hi>ringing Sermon-bels</hi> in ſome <hi>Churches,</hi> which could for no other end be brought in, but to bring <hi>ſchiſme</hi> into the <hi>Church</hi> with it. For let a <hi>Sermon-bell ring,</hi> and then people are tolled to the <hi>Church</hi> like a ſwarme of Bees together: but let a <hi>bell</hi> toll onely unto <hi>prayers, Nemo hercule, nemo, None</hi> comes then, none at all, as if <hi>prayer</hi> were of no force, <hi>preaching</hi> did all; as if Chriſt would take it well at their hands to correct his words, to put <hi>Praeier</hi> out of the <hi>Text,</hi> and to put in <hi>preaching, My houſe is the houſe of preaching.</hi>
+               <pb n="13" facs="tcp:135567:9"/>Saint <hi>Chryſoſtom</hi> heard what ſome ſuch <hi>Idoll-ſermoniſts</hi> did ſay; and it is even the ſame, which the <hi>Schiſmatiques</hi> of our dayes have ſucked from them, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <note n="a" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>. They could <hi>pray at home,</hi> but they could not meete with a <hi>Sermon,</hi> unleſſe they met at <hi>Church.</hi> Hee calls it <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a <hi>cold apology;</hi> and yet it proceeded from a <hi>hot zeale.</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Pray at home</hi> wee may, but wee cannot pray at home as <hi>at Church,</hi> where there is a reverend <hi>aſſembly</hi> of <hi>Fathers,</hi> an <hi>unanimous ſupplication</hi> unto God, where there is amongſt <hi>us all</hi> but <hi>one mind,</hi> and <hi>one voice,</hi> and the <hi>bond of charity,</hi> and the <hi>prayers of the Prieſt;</hi> to which I adde, the <hi>Abſolution</hi> and <hi>Bleſsing of the Prieſt.</hi>
+            </p>
+            <p>This the cauſe of ſo little <hi>growth</hi> in <hi>Religion,</hi> that there is ſo little profit made of ſo many <hi>Sermons,</hi> becauſe there is a contempt of <hi>Church-prayer,</hi> that ſhould bleſſe them. <hi>Prayer</hi> is not utterly juſtled out of the <hi>Church;</hi> the <hi>Divell</hi> never laboured to bring that to paſſe: but <hi>private prayer</hi> is brought in, that was never warranted to have a roome <hi>in publique. How is it then, brethren?</hi> ſaith Saint <hi>Paul, when yee come together,</hi>
+               <note place="margin">1. Cor. 14.26.</note> 
+               <hi>every one of you hath a pſalme, hath a doctrine, hath a tongue, hath a reve<g ref="char:EOLhyphen"/>lation, hath an interpretation.</hi> Nay now, <hi>every one of you hath a Prayer</hi> by himſelfe; ſo many <hi>Prieſts</hi> in the Pul<g ref="char:EOLhyphen"/>pit, ſo many ſundry <hi>prayers;</hi> and when the <hi>publique
+<pb n="14" facs="tcp:135567:10"/>prayers of the Church</hi> are ended, every one begins a new, and places more vertue (it may be) in an <hi>extempo<g ref="char:EOLhyphen"/>rall prayer</hi> of his owne invention, then in what the <hi>Church</hi> hath in her mature judgement appointed; ſo that <hi>his</hi> comes <hi>to conclude with,</hi> like the <hi>Lords prayer,</hi> as if it <hi>perfected</hi> all the reſt.</p>
+            <p>It was forbidden in divers Councills,<note n="a" place="margin">Conc. Carth. <hi>3.</hi> can. <hi>23.</hi> Conc. Aſiic. cap. <hi>70.</hi>
+               </note> that any <hi>prayers</hi> ſhould bee <hi>raſhly powred</hi> out unto God in the <hi>Church,</hi> but onely ſuch as were before approoved in the <hi>Councills,</hi> or by the learned <hi>Fathers of the Church, Ne fortè aliquid contra fide<g ref="char:cmbAbbrStroke">̄</g>, vel per ignorantiam, vel per minus ſtudium ſit compoſitum,</hi> as it is expreſſed in the <hi>Milevitan Councill under Innocent</hi> 1.<note n="b" place="margin">Can. <hi>12.</hi>
+               </note> It is not left to <hi>every man</hi> to uſe what <hi>prayers</hi> he pleaſe, for they may ſmell of <hi>ignorance,</hi> or <hi>idleneſſe,</hi> and may ſerve to convey to the people <hi>ſchiſmaticall</hi> and <hi>hereticall</hi> do<g ref="char:EOLhyphen"/>ctrines. Our <hi>Lord</hi> commanded his <hi>Apoſtles</hi> to uſe a <hi>forme of prayer;</hi>
+               <note place="margin">S. Mat. 6.7.</note> and the <hi>Church</hi> hath appointed <hi>us</hi> one too; to prevent the profanation of his <hi>Houſe</hi> by <hi>tauto<g ref="char:EOLhyphen"/>logies, inconſequences, tediouſneſſe, rawneſſe,</hi> and other <hi>abſurdities</hi> in <hi>extemporall prayer,</hi> which our Lord di<g ref="char:EOLhyphen"/>rects his ſpeech againſt, and calls it <hi>babling,</hi> and not <hi>praying.</hi> Gods <hi>houſe</hi> is not to bee made a <hi>houſe</hi> of <hi>babling,</hi> but a <hi>houſe of prayer:</hi> And the <hi>prayers</hi> that are authorized in the <hi>Church</hi> are called <hi>Collects,</hi> but not <hi>private prayers,</hi> becauſe they were approoved in an <hi>Eccleſiaſticall Aſſembly;</hi> or <hi>â Collectione populi,</hi> as <hi>Al<g ref="char:EOLhyphen"/>cuinus de divinis offic.</hi>
+               <note n="a" place="margin">cap. de cele<g ref="char:EOLhyphen"/>brat. Miſſae.</note> becauſe we <hi>Aſſemble</hi> together to that <hi>end,</hi> which is, <hi>to pray.</hi>
+            </p>
+            <p>It is <hi>Common prayer,</hi> that hath obtained the name of the <hi>ſervice of God,</hi> as if that were the ſumme of <hi>all Re<g ref="char:EOLhyphen"/>ligion.</hi>
+               <pb n="15" facs="tcp:135567:10"/>And indeede <hi>Religion</hi> never grew to ſuch a height, as when <hi>Common prayer</hi> was ſet by: and never was it brought into ſuch a conſumption, as when raw and extemporary <hi>preaching</hi> came into the roome of it; for thence came factions, ſchiſ<g ref="char:EOLhyphen"/>mes, and perturbations of the <hi>Churches peace.</hi> If wee would have <hi>Religion</hi> live amongſt us, <hi>Prayer</hi> muſt be ſeated in <hi>Gods houſe. Domus mea, domus Orationis eſt.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 
+               <hi>Prayer</hi> muſt neve<g ref="char:cmbAbbrStroke">̄</g>r be turned out; for if the <hi>End,</hi> for which <hi>Gods houſe</hi> was inſtituted, be altered, then the <hi>property</hi> is altered, and it is <hi>Gods houſe no longer.</hi> God ſayes, <hi>Domus mea, Eſt domus oratio<g ref="char:EOLhyphen"/>nis,</hi> not <hi>Fuit,</hi> or <hi>Erit; Is the houſe of prayer,</hi> to ſig<g ref="char:EOLhyphen"/>nifie the <hi>perpetuation</hi> of the ſame <hi>End.</hi> It is here in Saint <hi>Luke, Domus orationis eſt,</hi> but in Saint <hi>Mat<g ref="char:EOLhyphen"/>thew,</hi>
+               <note place="margin">S. Mat. 21.13</note> 
+               <hi>Domus orationis vocabitur,</hi> to make it more full. The <hi>Houſe of God</hi> is the <hi>houſe of prayer,</hi> both <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: it is both the <hi>name,</hi> and the <hi>nature of Gods houſe, The houſe of prayer;</hi> either of them of authority ſufficient to give <hi>prayer</hi> the chiefeſt place in it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Howſoever if reaſon will not prevaile for <hi>prayer,</hi> yet <hi>God himſelfe</hi> muſt; here is his <hi>Scriptum eſt,</hi> to take off all cavill, <hi>preaching</hi> muſt give place to <hi>prayer</hi> in the <hi>Temple. God</hi> himſelfe hath ſayd it; and <hi>Chriſt</hi> hath ſaid it againe, <hi>It is written, My houſe is the houſe of prayer.</hi> Who fitter to order and impoſe Lawes to a <hi>houſe,</hi> than the <hi>Maſter</hi> of it? Let <hi>God</hi> be <hi>Maſter</hi> in his <hi>owne Houſe:</hi> let not man croſſe the <hi>end,</hi> that <hi>he</hi> hath deſtined it to; for that is, as <hi>Gamaliel</hi>
+               <pb n="16" facs="tcp:135567:11"/>ſaid in the Councill of the Iewes,<note place="margin">Act. 5.39.</note> 
+               <hi>to rebell and fight againſt God. Cui dixit aliquar do angelorum,</hi> ſaith Saint <hi>Paul,</hi>
+               <note place="margin">Heb. 1.5.</note> 
+               <hi>Vnto which of the Angels ſaid God at any time, Thou art my Sonne, this day have I begotten thee?</hi> So ſay I, <hi>In quo libro Scriptum eſt,</hi> in what place of <hi>Scripture</hi> is it <hi>written, My houſe is the houſe of preach<g ref="char:EOLhyphen"/>ing?</hi> If they had ſuch a <hi>Text</hi> for <hi>preaching</hi> as wee have for <hi>prayer,</hi> then they might the better deſend that <hi>preaching</hi> which ſhuts out <hi>prayers.</hi> Saint <hi>Iohn</hi> in<g ref="char:EOLhyphen"/>flicts a <hi>Curſe</hi> upon all them,<note place="margin">S. I. h. 22.18.</note> that ſhall <hi>adde</hi> to the <hi>Word of God, or take from it.</hi> It is not ſafe then to wreſt the <hi>Text,</hi> to take away <hi>prayer,</hi> and to put in <hi>preaching,</hi> for it is againſt the ſcope of the <hi>Text. Gods houſe</hi> is recorded for <hi>a houſe of prayer</hi> by all <hi>foure Evangeliſts.</hi> As our ſaviour told the Scribes and Phariſees, when they tithed <hi>mint, and anniſe, &amp; cum<g ref="char:EOLhyphen"/>min,</hi> but neglected <hi>mercy,</hi>
+               <note place="margin">S. Mat 23.23.</note> 
+               <hi>judgement</hi> and <hi>faith, Theſe ought ye to have done, and not to leave the other un<g ref="char:EOLhyphen"/>done.</hi> So let <hi>preaching</hi> have a place in the <hi>Church,</hi> but let not <hi>Prayer</hi> be neglected, that ought to have the chiefe place.</p>
+            <p>
+               <hi>Doxolog<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> is a part of <hi>prayer;</hi> but that the <hi>Angels</hi> doe, and <hi>We</hi> ſhall ever doe in <hi>heaven, crying, Holy, holy, holy, Lord God of Sabaoth.</hi> The <hi>Temple</hi> is then more like <hi>Heaven,</hi> and <hi>Wee</hi> more like the <hi>Angels of Heaven,</hi> when wee are in the act of <hi>prayer.</hi> God hath commanded that his <hi>houſe on earth</hi> have as neare a reſemblance as may be to his <hi>houſe in hea<g ref="char:EOLhyphen"/>ven,</hi> and that is the worke of <hi>Prayer, It is written, My houſe is the houſe of Prayer.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> But it was neither like <hi>Heaven,</hi> nor like a <hi>Houſe,</hi>
+               <pb n="17" facs="tcp:135567:11"/>when Chriſt viſited it: <hi>God</hi> and <hi>Prayer</hi> were both driven out by <hi>Theeves,</hi> and the <hi>Houſe</hi> was turned into a <hi>Denne. Vos autem fecistis eam Spe<g ref="char:EOLhyphen"/>luncam.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> The <hi>Temple</hi> was not onely prophaned, but pro<g ref="char:EOLhyphen"/>phaned in a high manner. <hi>Domus Dei</hi> was not made <hi>Domus Hominum;</hi> nor <hi>Domus Orationis, Domus Negotiationis,</hi> as it is in Saint <hi>Iohn,</hi>
+               <note place="margin">Cap. 2. v. 16.</note> but <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſaith Saint <hi>Chry<g ref="char:EOLhyphen"/>ſos<g ref="char:cmbAbbrStroke">̄</g>tome.</hi>
+               <note n="a" place="margin">In S. Ioh. 2.</note> The greatneſſe of the <hi>Offence</hi> may bee meaſured by the harſhneſſe of the <hi>terme,</hi> in that our Lord calls it not a <hi>Houſe</hi> at all, but a <hi>Denne.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> A <hi>Houſe</hi> receives the <hi>Light</hi> into it, but a <hi>Denne</hi> is a place of <hi>Darkeneſſe. Light</hi> becomes him, who is the <hi>Father of Light: God is Light,</hi> ſaith Saint <hi>Iohn, and in him is no darkeneſſe at all.</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> His workes are <hi>Opera<g ref="char:EOLhyphen"/>lucis,</hi> his children <hi>Filii lucis,</hi> and his <hi>habitation Domus lucis.</hi> To ſhut out any <hi>light,</hi> that may bee uſefull in <hi>Gods houſe,</hi> is with the Iewes to make it a <hi>Denne;</hi> as they would doe, that would ſhut out the <hi>Ceremonies</hi> out of the <hi>Church:</hi> for take away the <hi>Ceremonies</hi> out of the <hi>Church,</hi> and take away the <hi>light</hi> that is in it. <hi>Senſe</hi> is a guide to the <hi>underſtanding;</hi>
+               <note place="margin">Rom. 1.20.</note> and wee are led to the <hi>inviſible</hi> things by the <hi>viſible. No Re<g ref="char:EOLhyphen"/>ligion</hi> was ever without <hi>Ceremonies;</hi> all <hi>nations,</hi> not onely <hi>Iewes,</hi> but <hi>Gentiles,</hi> uſed their <hi>Rites</hi> and <hi>Cere<g ref="char:EOLhyphen"/>monies</hi> in the time of <hi>Worſhip,</hi> all meeting in this, as a naturall principle, that <hi>Divine worſhip</hi> cannot bee rightly performed without an <hi>outward ſolemnity.</hi> God did not forbid the <hi>Iewes,</hi> but commanded them
+<pb n="18" facs="tcp:135567:12"/>the uſe of <hi>Ceremonies,</hi> though <hi>Heathen Idolaters</hi> abounded with them.</p>
+            <p>The <hi>Morall Law,</hi> and the <hi>Ceremoniall Law</hi> were not given one without the other, neither can they now be parted; nor is there any <hi>Ceremonie</hi> ſo bare, that is not clothed with ſome <hi>Morality.</hi> People are inſtructed as well by what they <hi>ſee,</hi> as by what they <hi>heare;</hi> and to ſee the <hi>picture</hi> of a <hi>Saint</hi> in a glaſſe window will preach more Religion to them, then to ſee the <hi>picture</hi> of a <hi>Horſe or an Oxe in Gods Houſe;</hi> the one puts them in mind, that it is <hi>Gods Houſe,</hi> the other doth but make it more like a <hi>Den.</hi>
+            </p>
+            <p>What devotion can that raiſe in a mans thoughts, to behold in the Church <hi>Gods Prieſt</hi> like a <hi>peaſant,</hi> no habit to difference him from ſome ſordid <hi>me<g ref="char:EOLhyphen"/>chanique?</hi> and to heare <hi>Gods Service</hi> ſlubberd over with as <hi>little Ceremony,</hi> as a <hi>Scrivener</hi> reades a <hi>Bond</hi> or <hi>Indenture?</hi>
+            </p>
+            <p>The word <hi>Ceremony</hi> carries <hi>light</hi> in it; for <hi>Cere<g ref="char:EOLhyphen"/>moniae tanquam Cerei,</hi> they are as <hi>lights,</hi> that give a <hi>luſter to Gods houſe,</hi> and his <hi>Service</hi> in it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> The <hi>Church</hi> cannot but bee <hi>darke,</hi> if the <hi>light of Ceremonies</hi> be wanting: but if the <hi>light of knowledge</hi> be wanting too, that is required in the <hi>Prieſts</hi> of it; it cannot but <hi>darken</hi> it much more. For the moſt part theſe two, the want of <hi>knowledge,</hi> and the contempt of <hi>Ceremonies</hi> goe together: for none is more apt to ſtumble at a <hi>ceremonie,</hi> than a <hi>blind Prieſt</hi> that cannot ſee through his groſſe <hi>ignorance.</hi>
+            </p>
+            <p>The <hi>Tradeſmans ſtall</hi> comes not behinde the <hi>Di<g ref="char:EOLhyphen"/>vinitie Schoole;</hi> for that hath brought forth ma<g ref="char:EOLhyphen"/>ny
+<pb n="19" facs="tcp:135567:12"/>
+               <hi>Divines</hi> too, that have left <hi>ſowing of garments</hi> and made a <hi>ront in the Church.</hi> And how many bee there that have but <hi>ſlept a time</hi> in the <hi>Vniverſity,</hi> that have returned immediatly inſpired with the gift of <hi>Propheſy,</hi> as he did with the gift of <hi>Poetry,</hi> that <hi>dreamt upon Parnaſſus.</hi>
+               <note n="a" place="margin">Pers. in prol.</note> When the <hi>Church</hi> is filled with ſuch an <hi>ignorant Prieſthood,</hi> it may truly be cal<g ref="char:EOLhyphen"/>led a <hi>Denne.</hi>
+            </p>
+            <p>The <hi>learning</hi> of the <hi>Clergy</hi> is the <hi>light</hi> of the <hi>Church;</hi> therefore was the Primitive <hi>Church</hi> ſo care<g ref="char:EOLhyphen"/>full to preſerve it. None was to bee admitted unto <hi>Orders</hi> without a ſtrict <hi>examination,</hi> that the <hi>Nicene</hi> Councell<note n="b" place="margin">cap. <hi>9.</hi>
+               </note> provided for. If any man was ſufficient in reſpect of parts, yet if he were a <hi>novice,</hi> hee was not to be promoted to the <hi>Prieſt-hood,</hi> that was looked after by the <hi>Fathers</hi> in divers Councills.<note n="c" place="margin">Conc. Nic. cap. <hi>2.</hi> Conc. Laod. cap. <hi>3.</hi>
+               </note> No <hi>Biſhop</hi> was to appoint his <hi>Succeſſor,</hi> for that he might doe for ſome private reſpect, but he was to be cho<g ref="char:EOLhyphen"/>ſen by the judgement of a <hi>Synod;</hi> that was deter<g ref="char:EOLhyphen"/>mined in the Councills at <hi>Antioch,</hi>
+               <note n="d" place="margin">cap. <hi>23.</hi>
+               </note> and <hi>Laodicea.</hi>
+               <note n="e" place="margin">cap. <hi>12.</hi>
+               </note> The <hi>election</hi> of <hi>Prieſts</hi> was not permitted to the <hi>People</hi> in the ſame Councill at <hi>Laod cea;</hi>
+               <note n="f" place="margin">cap <hi>13.</hi>
+               </note> for they might be perhaps competent judges of their <hi>life,</hi> but not of their <hi>learning.</hi> And then too, it was ordered, that there ſhould be an <hi>aſcent by degrees</hi> to <hi>Eccleſiasticall promotions,</hi>
+               <note n="g" place="margin">Cone Sardie. cap. <hi>13.</hi>
+               </note> that neither <hi>ignorance,</hi> nor <hi>indeſert</hi> might uſurpe a ſeate in <hi>Gods houſe.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> But it is to ſmall purpoſe to ſhut <hi>Ignorance</hi> out of the <hi>Temple,</hi> unleſſe <hi>Vitiouſneſſe</hi> be ſhut out too; for the <hi>Temple</hi> is made a <hi>Denne</hi> both wayes, not onely by the <hi>ignorance,</hi> but by the <hi>fouleneſſe of life</hi> in the
+<pb n="20" facs="tcp:135567:13"/>
+               <hi>Prieſt-hood. Hereſie</hi> and <hi>ſchiſme</hi> get ground in the <hi>Church</hi> by <hi>Ignorance;</hi> but <hi>contempt</hi> of <hi>Religion</hi> comes in by the <hi>Prieſts prophanenes.</hi> When they, that ſerve at the <hi>Altar,</hi>
+               <note place="margin">1 Sam. 2.12.17.</note> are <hi>ſonnes of Belial,</hi> like <hi>Elies ſonnes,</hi> they make men <hi>to abhorre the ſacrifice of the Lord,</hi> yea God himſelfe to abhorre his owne ſa<g ref="char:EOLhyphen"/>crifice.</p>
+            <p>The <hi>Vrim</hi> and the <hi>Thummim</hi> were put in <hi>Aarons Breaſt-plate,</hi>
+               <note place="margin">Exod. 28.30.</note> that he might not onely ſhine before the people in <hi>ſoundneſſe of Doctrine,</hi> but in <hi>perfection of life.</hi> He that hath the <hi>Vrim</hi> and not the <hi>Thummim,</hi> whoſe <hi>Life</hi> doth not go together with his <hi>Doctrine,</hi> with <hi>Penelope</hi> he undoes all againe, and pulls downe more with the one, than he builds up with the other. <hi>Debet praeponderare vita ſacerdotis, ſicut praeponderat gratia. Nam qui alios praeceptis ſuis ligat, debet ipſe legitima praecepta in ſe cuſtodire,</hi> ſaith Saint <hi>Am<g ref="char:EOLhyphen"/>broſe.</hi>
+               <note n="a" place="margin">Epiſt. lib. <hi>3.</hi> Vercellenſi Eccleſiae epiſt. <hi>25.</hi>
+               </note> The <hi>people</hi> will be the more ready to keepe the <hi>Law,</hi> if the <hi>Prieſt</hi> keepes it himſelfe; for they are guided more by a good <hi>example,</hi> then by a good <hi>Sermon.</hi>
+               <note place="margin">Levit. 21.18.</note> God would not admit a man to his <hi>Altar</hi> that wanted an <hi>eye,</hi> or a <hi>hand,</hi> or a <hi>foote,</hi> or had any <hi>blemiſh</hi> in his <hi>body;</hi> much leſſe then in his <hi>ſoule,</hi> as <hi>Philo</hi> obſerves, A <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <note n="a" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+            </p>
+            <p>
+               <hi>Holineſſe</hi> becomes <hi>Gods houſe; Vice</hi> pollutes it, and makes it a <hi>Denne,</hi> eſpecially the vice of the <hi>Cler<g ref="char:EOLhyphen"/>gy:</hi> for that which is but a <hi>ſingle ſinne</hi> in the <hi>people, Chryſologus</hi>
+               <note n="b" place="margin">Serm. 26.</note> counts <hi>ſacriledge</hi> in the <hi>Prieſt;</hi> and ſo
+<pb n="21" facs="tcp:135567:13"/>doe the <hi>Schooles,</hi>
+               <note n="c" place="margin">
+                  <g ref="char:V">Ʋ</g>tg. de <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<g ref="char:EOLhyphen"/>cr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> in that regard <hi>He</hi> is a <hi>ſacred perſon</hi> that commits it.</p>
+            <p>The <hi>Perſon</hi> doth much aggravate the <hi>crime,</hi> when he is not an <hi>ordinary perſon,</hi> but one of <hi>greater emi<g ref="char:EOLhyphen"/>nency. Vos autem feciſtis eam ſpeluncam,</hi> makes the <hi>prophanation</hi> of <hi>Gods houſe</hi> of a higher quality; <hi>It is written, My houſe is the houſe of prayer, but Yee have made it a denne of theeves.</hi>
+            </p>
+            <p>The <hi>Iewes</hi> ſhould have maintained the <hi>honour</hi> of <hi>Gods houſe,</hi> howſoever any prophane <hi>Edomites</hi> might have laid ſacrilegious hands upon it: but <hi>they</hi> did worſe then even the <hi>Edomites</hi> would have done: for they would have made it <hi>no houſe</hi> at all, but <hi>theſe</hi> made it a <hi>Denne of Theeves; they</hi> would have put it to <hi>ruine,</hi> but <hi>theſe</hi> put it to <hi>infamy. Quid eſt, quòd Dilectus meus in Domo meá fecit ſcelera multa.</hi>
+               <note place="margin">Ier. 12.15.</note> God complaines in <hi>Ieremie,</hi> that it was not onely <hi>his owne houſe,</hi> that was prophaned; but that they were <hi>his owne people</hi> that prophaned it; nay, they that were <hi>his owne Prieſts</hi> too: The nearer to God the <hi>offender is,</hi> the nearer the <hi>offence</hi> goes to Gods heart. Chriſt is more offended at the <hi>Vos,</hi> then at the <hi>Spelunca:</hi> And this would be thought on among <hi>us,</hi> whom God hath inveſted in the <hi>Prieſts office,</hi> that the <hi>ſinnes</hi> of the <hi>Prieſts</hi> are not onely more <hi>dangerous</hi> in reſpect of the <hi>people,</hi> but alſo more <hi>beynous</hi> in reſpect of <hi>themſelves.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> The <hi>Vos</hi> ſtands not idle in the <hi>Text;</hi> the <hi>Perſons</hi> that made <hi>Gods houſe a Denne,</hi> made that ſinne the greater; but ſo much the greater, in that <hi>they</hi> made it not onely a <hi>Denne,</hi> but a <hi>Denne of Theeves.</hi>
+               <pb n="22" facs="tcp:135567:14"/>Chriſt ſaies not, <hi>Vos feciſtis illam ſpeluncam Bellua<g ref="char:EOLhyphen"/>rum,</hi> but <hi>ſpeluncam Latronum,</hi> as if that were a de<g ref="char:EOLhyphen"/>gree higher, and <hi>Theeves</hi> were worſe than <hi>Beaſts;</hi> for <hi>nature</hi> inforceth the one, but the <hi>will</hi> mooveth the other to rapine. They are <hi>both</hi> for <hi>prey;</hi> but the <hi>Thiefe</hi> is the more inſatiable: the <hi>Beast</hi> followes his prey but for <hi>neceſsity.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Our Lord was crucified betweene <hi>Two theeves;</hi>
+               <note place="margin">S Mat. 27.38.</note> and he ſuffers betweene <hi>two</hi> kind of <hi>Theeves</hi> ſtill to this day, betweene the <hi>Secret,</hi> and the <hi>Open</hi> thiefe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> The <hi>Heretique</hi> and the <hi>Schiſmatique</hi> convey them<g ref="char:EOLhyphen"/>ſelves in a <hi>ſneaking</hi> manner into Gods houſe under the covert of <hi>holineſſe.</hi> 
+               <note place="margin">Verſ. 4.</note> 
+               <hi>Theſe Saint Iude</hi> compares to <hi>Creepers, there are,</hi> ſaith he, <hi>certaine men crept in unawares.</hi>
+               <note place="margin">2 Tim, 3.6.</note> So Saint <hi>Paul, Theſe are they that creepe into mens houſes, leading captive ſilly women:</hi> and from thence feeding upon <hi>Silly Soules,</hi> they have <hi>Crept</hi> into <hi>Gods houſe</hi> too, eating the <hi>ſhewbread</hi> which none but the <hi>Prieſt</hi> ſhould eate: for men care not how they rob the <hi>pariſh-prieſt</hi> of his <hi>patrimonie,</hi> ſo they give a <hi>benevolence</hi> to <hi>a crept in Sect-maker:</hi> Their <hi>Creeping</hi> diſcovers them to be <hi>Wormes;</hi> and where they come, they are as bad a <hi>plague</hi> as the <hi>Lice</hi> in <hi>Aegypt,</hi> for they gnaw upon <hi>Gods people,</hi> till at length they die the death of <hi>Herod,</hi>
+               <note place="margin">Act. 12.</note> 
+               <hi>who was ea<g ref="char:EOLhyphen"/>ten of wormes.</hi> There was a <hi>ſecret politie</hi> thought on, when <hi>ſchiſme</hi> nouriſhed a preſumption of ſway<g ref="char:EOLhyphen"/>ing in the <hi>Church;</hi> and the <hi>deſtiny of Gods houſe</hi> was, to be made <hi>a Denne of Theeves.</hi> There were <hi>ſecret perſons</hi> aſſigned for <hi>benefices,</hi> and <hi>ſecret orders</hi> made, and <hi>ſecret oathes</hi> taken, and <hi>ſecret reſerva<g ref="char:EOLhyphen"/>tions</hi>
+               <pb n="23" facs="tcp:135567:14"/>with the <hi>doners.</hi> But this <hi>ſecret plot</hi> was brought to light; and the <hi>plotters</hi> were reprooved, as Chriſt reprooved them in the <hi>Text, Vos autem fecistis illam ſpeluncam latronum.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> There is another kind of <hi>Theefe,</hi> that doth not <hi>enter in by the doore,</hi>
+               <note place="margin">S. Iob. 10.1.</note> but climbes up another way by a <hi>private contract</hi> with a <hi>Simoniacall patron.</hi> Such a <hi>Prieſt,</hi> and <hi>Patron</hi> are like <hi>Simeon</hi> and <hi>Levi, they</hi> conſpired together to ſlay the <hi>Sichemites;</hi> theſe <hi>contract</hi> together to ſlay the <hi>ſoules of a multitude.</hi> They make <hi>Gods houſe</hi> betweene them a <hi>Farme,</hi> and it is ſold to him that gives moſt for it. Gods Houſe is <hi>bought</hi> and <hi>ſold</hi> by theſe two at a farre <hi>dearer rate,</hi> than our <hi>Lord himſelfe</hi> was <hi>ſold</hi> and <hi>bought</hi> by <hi>Iudas</hi> and the <hi>Phariſees:</hi> but as the <hi>Shepheard</hi> then; ſo now the <hi>Flock</hi> is <hi>bought</hi> and <hi>ſold</hi> for mony. By this back-doore, <hi>inſufficiency</hi> in the <hi>Prieſt-hood, ig<g ref="char:EOLhyphen"/>norance, impiety, oppreſsion, covetouſneſſe, neglect</hi> of the <hi>peoples ſoules,</hi> yea all kind of ſinne enters in. Hence the people are fed with huskes, unleſſe a diſh bee ſtolne from anothers table; and hee that cannot make a <hi>Sermon,</hi> ſteales one, which is like a <hi>Tailors ſuite</hi> made up of ſundry remnants, that he hath ſtolne from <hi>others;</hi> and <hi>he himſelfe</hi> is like the <hi>Crow</hi> in <hi>Horace,</hi>
+               <note n="a" place="margin">Epiſt. lib. <hi>1.</hi>
+               </note> that was plumed with <hi>other birds feathers.</hi> Hence comes not the <hi>feeding of the flocke,</hi> but the <hi>feeding of himſelfe,</hi> of which God com<g ref="char:EOLhyphen"/>plaines, <hi>Lac comedebatis, &amp; lanis operiebamini,</hi>
+               <note place="margin">Ezech. 34.2.</note> 
+               <hi>&amp; quod craſſum erat occidebatis: gregem autem meum non paſcebatis.</hi> And no marvaile, that they looke after nothing but <hi>gaine,</hi> that have <hi>bought ſo deare. Gods
+<pb n="24" facs="tcp:135567:15"/>houſe</hi> is <hi>ſold</hi> as <hi>Ioſeph</hi> was unto the <hi>Midianitiſh mer<g ref="char:EOLhyphen"/>chants,</hi>
+               <note place="margin">Gen. 37.</note> that made <hi>ſale</hi> of him againe; which was the very intention of <hi>Simon Magus,</hi> as Saint <hi>Auguſtine</hi> ſpeakes,<note n="a" place="margin">In S. Ioh. 2.</note> 
+               <hi>Simon ideo volebat emere Spiritum ſanctum, quia vendere volebat Spiritum ſanctum.</hi> But let them remember, that all this is <hi>pretium ſanguinis,</hi> that they put into their treaſury, and that they doe <hi>non tam patrimonium facultatum, quàm theſaurum crimi<g ref="char:EOLhyphen"/>num congregare,</hi> ſaith Saint <hi>Ambroſe.</hi>
+               <note n="b" place="margin">In S. Luc. 4.</note> All the <hi>Fathers</hi> comment upon <hi>theſe Theeves,</hi> that theſe are the <hi>Theeves</hi> that are meant by the <hi>Ementes,</hi> and <hi>Ven<g ref="char:EOLhyphen"/>dentes</hi> in the <hi>Temple,</hi> the <hi>Buyers</hi> &amp; <hi>Sellers</hi> of <hi>Church-livings.</hi> The Apoſtles,<note n="c" place="margin">Can. Apoſt. cap. <hi>30.</hi>
+               </note> and ſucceeding Councills<note n="d" place="margin">Conc. Chat. ced. cap. <hi>2.</hi>
+               </note> provided againſt <hi>theſe</hi> by ſharpe ſentence of <hi>depoſiti<g ref="char:EOLhyphen"/>on</hi> and <hi>excommunication;</hi> therefore they are <hi>ſecret theeves.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> But there be <hi>open theeves</hi> too; the one undermine, the other offer violence to <hi>Gods houſe;</hi> that the more <hi>dangerous,</hi> this the more <hi>bold ſinne.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> There was once a <hi>Statute</hi> to ſtint the <hi>devotion</hi> of men, they brought ſo freely to <hi>Gods Houſe:</hi> but now there needs a <hi>Counter-ſtatute,</hi> for <hi>that devotion</hi> was not in ſo ſhort a time <hi>raiſed,</hi> as it was <hi>pulled downe;</hi> and men thought it no <hi>robbery to robbe God.</hi> God hath all the <hi>best</hi> of his <hi>Houſes</hi> and <hi>Lands impropria<g ref="char:EOLhyphen"/>ted, the meaneſt and of ſmallest value</hi> fit enough for the <hi>Prieſthood;</hi> and herein <hi>Saul</hi> is the more righte<g ref="char:EOLhyphen"/>ous, for <hi>he ſpared the fatteſt of the flocke for Sacrifice.</hi> God hath ordained, that <hi>He that ſerves at the Altar, ſhould live on the Altar,</hi> ſaith Saint <hi>Paul;</hi> and they live on it now that have no right to eate of it. No
+<pb n="25" facs="tcp:135567:15"/>meere <hi>Lay-man</hi> ever was diſpenſed with to <hi>receive Gods Rents;</hi> that belonged to the <hi>Prieſthood.</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſaith <hi>Philo.</hi>
+               <note n="a" place="margin">Lib. de prae<g ref="char:EOLhyphen"/>miis Sacerd. &amp; honorib.</note>
+            </p>
+            <p>The very <hi>name</hi> of <hi>Impropriation</hi> excluds a <hi>proper title</hi> to them: for the <hi>Founders</hi> gave them to <hi>God</hi> never to be <hi>alienated</hi> from the <hi>Church,</hi> but to be <hi>His</hi> during his <hi>Life:</hi> till <hi>God dies</hi> then, and <hi>bequeathes</hi> them away by <hi>Will,</hi> they muſt be <hi>His.</hi> Their reli<g ref="char:EOLhyphen"/>gious <hi>Founders</hi> fenced them with a <hi>Curſe,</hi> that they might not be eaſily intrenched upon; and wiſhed that <hi>whoſoever did take any thing from the Church, he</hi> might receive the <hi>doome at the laſt day,</hi> which is due to <hi>Sacriledge</hi> againſt God.<note n="b" place="margin">Iuel. apol. pa. 439.</note>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> As <hi>theſe</hi> rob God of his <hi>Lands</hi> and <hi>Endowments;</hi> So <hi>others</hi> rob him of his <hi>Tithes.</hi>
+               <note place="margin">Hooker. lib. <hi>5.</hi> Pol. Eccles.</note> God lookes to have the <hi>Tithe</hi> of every thing in <hi>kind,</hi> no <hi>cuſtome</hi> can pre<g ref="char:EOLhyphen"/>vaile againſt him. God takes the <hi>Prieſts</hi> part in <hi>Ti<g ref="char:EOLhyphen"/>thes</hi> and <hi>Offerings,</hi> becauſe the <hi>Prieſt</hi> is but his <hi>De<g ref="char:EOLhyphen"/>puty,</hi> or <hi>Collector. Will a man rob God?</hi>
+               <note place="margin">Mal. 3.8.</note> 
+               <hi>yet yee have robbed me: but ye ſay, Wherein have wee robbed thee? In tithes &amp; offerings.</hi> And there God avouches, that the reaſon he allowed them <hi>no raine</hi> from <hi>hea<g ref="char:EOLhyphen"/>ven</hi> was, becauſe they allowed him <hi>no tithes</hi> of the <hi>fruites,</hi> where with hee had bleſſed them <hi>on earth. Noluimus partiricum Deo Decimas, nunc autem To<g ref="char:EOLhyphen"/>tum tollitur</hi>
+               <note n="a" place="margin">Scrm. de Temp. <hi>219.</hi>
+               </note>. Saint <hi>Auſtine</hi> told his <hi>Auditors</hi> ſo in a time of <hi>dearth, yee</hi> would not give <hi>God</hi> the <hi>tenth,</hi> and now <hi>God</hi> hath given <hi>you none. Nine</hi> for <hi>one</hi> is faire: let God have that at leaſt.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> As it is a ſinne to rob <hi>God</hi> of his <hi>Tithes,</hi> ſo is it a ſin to rob God of his <hi>Service.</hi> The <hi>Prieſt</hi> robs the <hi>peo<g ref="char:EOLhyphen"/>ple</hi> by not affording them the <hi>Divine Service,</hi> as the
+<pb n="26" facs="tcp:135567:16"/>
+               <hi>people</hi> doth the <hi>Prieſt</hi> by not paying him the <hi>Tithes.</hi> Either the <hi>Church-prayers</hi> be not read at all, or if they be read, they are <hi>ſhortned.</hi> Nay let <hi>God</hi> have <hi>all</hi> his <hi>Prayers,</hi> as <hi>you</hi> would have <hi>all</hi> his <hi>Tithes.</hi> They that ſhorten God of his <hi>Prayers,</hi> would ſhorten him of any thing elſe too.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> They that be the <hi>Guardians</hi> of the <hi>Church,</hi> are the greateſt <hi>Theeves</hi> of all, for the <hi>Church</hi> truſts them to <hi>preſent abuſes,</hi> and they preſent <hi>nothing</hi> at all; and hence it is that the <hi>Church</hi> is made <hi>Spelunca latro<g ref="char:EOLhyphen"/>num, a Denne of theeves.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> If this <hi>crime</hi> were but <hi>new,</hi> it might be the more eaſily reformed; but the <hi>growth of time</hi> makes it the more difficult. It is not <hi>Vos facitis,</hi> as if it were <hi>be<g ref="char:EOLhyphen"/>gun</hi> but <hi>now,</hi> but <hi>Vos feciſtis,</hi> that implies a <hi>long continuance.</hi> The <hi>Church</hi> hath beene made a <hi>Denne of theeves,</hi> too long: God grant, that <hi>every man</hi> in his <hi>place</hi> may endeavour the <hi>reformation</hi> of it, that it may be <hi>Domus orationis</hi> againe, not <hi>Spelunca latro<g ref="char:EOLhyphen"/>num,</hi> the <hi>Houſe of Prayer</hi> againe, and no longer a <hi>Denne of theeves.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:135567:16"/>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <pb facs="tcp:135567:17"/>
+            <p>
+               <hi>Perlegi Concionem hanc cui titulus eſt</hi> (A Sermon preached at VVimond<g ref="char:EOLhyphen"/>ham, &amp;c.) <hi>eamque typis mandari per<g ref="char:EOLhyphen"/>mitto.</hi>
+            </p>
+            <closer>
+               <date>Feb. 6. 1636.</date>
+               <signed>Sa. Baker.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
